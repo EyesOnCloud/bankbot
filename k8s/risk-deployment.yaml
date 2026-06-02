@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: risk-api
-        image: eyesoncloud/risk-api-cicd:963beca
+        image: eyesoncloud/risk-api-cicd:b2039c5
         ports:
         - containerPort: 8001
         envFrom:
