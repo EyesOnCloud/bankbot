@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: ui
-        image: hussain2844/bankbot-ui-cicd:7783bc3
+        image: eyesoncloud/bankbot-ui-cicd:963beca
         ports:
         - containerPort: 80
         readinessProbe:
