@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: chat-api
-        image: eyesoncloud/chat-api-cicd:b5b0f7c
+        image: eyesoncloud/chat-api-cicd:640b9ef
         ports:
         - containerPort: 8000
         envFrom:
